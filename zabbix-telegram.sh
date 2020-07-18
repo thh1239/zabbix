@@ -72,7 +72,7 @@ ZABBIXVERSION34="1"
 # Bot data from Telegram
 ############################################
 
-BOT_TOKEN='AAHNKzHAE35YTmymamxb2hKbYIXcXUYlmqs'
+BOT_TOKEN='1222015083:AAHNKzHAE35YTmymamxb2hKbYIXcXUYlmqs'
 
 # If the GRAPHID variable is not compliant not send the graph
 
